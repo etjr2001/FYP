@@ -1,0 +1,9 @@
+[submodule "ComfyUI"]
+	path = ComfyUI
+	url = https://github.com/etjr2001/ComfyUI
+[submodule "ComfyUI-IDM-VTON"]
+	path = ComfyUI-IDM-VTON
+	url = https://github.com/etjr2001/ComfyUI-IDM-VTON
+[submodule "TryonFrontend"]
+	path = TryonFrontend
+	url = https://github.com/etjr2001/TryonFrontend
